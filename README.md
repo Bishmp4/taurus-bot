@@ -78,7 +78,7 @@ __________________
 <br >
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/3oskv9U)
+ [![Run on Repl.it](https://github.com/Bishmp4/taurus-bot)](https://bit.ly/3oskv9U)
  
  <div align="left">
   
